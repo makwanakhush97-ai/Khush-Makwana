@@ -1,0 +1,6 @@
+{
+  "name": "Shayona Creation",
+  "description": "Premium women's ethnic wear store, manufacturer & wholesaler. Experience Zara-like luxurious browsing with custom wholesale bulk size-ordering, and an AI-powered personal stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
